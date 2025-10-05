@@ -232,10 +232,10 @@ This project is licensed under the ISC License.
 
 ## 🆘 Support
 
-- 📧 Email: support@example.com
+- 📧 Email: erdemmgokmuharrem@gmail.com
 - 📖 Documentation: `/api-docs`
 - 🐛 Issues: GitHub Issues
 
 ---
 
-**Made with ❤️ for SaaS startups**
+**Made with erdemgokmuharrem
